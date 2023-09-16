@@ -1,6 +1,7 @@
 /**
- ** This file is part of https://github.com/CM0use/Tortoise-and-Hare
- ** Copyright 2023 CM0use <dilanuzcs@gmail.com>.
+ ** This file is part of Tortoise-and-Hare project.
+ ** Copyright 2023 CM0use dilanuzcs@gmail.com
+ ** URL: https://github.com/CM0use/Tortoise-and-Hare
  **
  ** This program is free software: you can redistribute it and/or modify
  ** it under the terms of the GNU General Public License as published by
@@ -27,7 +28,7 @@
 # define ICON_TURTLE ('O')
 # define ICON_FLOOR  ('_')
 # define ICON_HARE   ('H')
-# define TIME        (0.369s)
+# define TIME        (0.123s)
 # define MIN         (0)
 # define MAX         (70)
 
