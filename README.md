@@ -31,21 +31,18 @@
 </div>
 
 ## Features
-
 * You can change the size of the map, in which position they will start/finish.
 * How the animals will look like in the race.
 * You can also change the speed at which they go.
 * Easy to modify.
 * Cross-Platform
-  - Windows, macOS and Linux.
+  - Windows, MacOS and Linux.
 
 ## Requirements
-
 * g++
 * git (optional)
 
 ## Compile & Run
-
 To **clone** and **compile** this game, you will need to have **git** and **g++** installed on your computer.<br>
 From your command line:
 
