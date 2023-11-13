@@ -4,17 +4,17 @@
 *** here is the link:
 *** https://github.com/CM0use/README-TEMPLATE
 -->
+<h1 align="center">The Tortoise and the Hare</h1>
 
-<h1 align="center">
-<a href="https://ychef.files.bbci.co.uk/1600x900/p01vt7d7.webp"><img src="https://ychef.files.bbci.co.uk/1600x900/p01vt7d7.webp"></a>
-  <br>The Tortoise and the Hare<br>
-  <a href="https://shields.io/"><img src="https://img.shields.io/badge/Windows-0078d7?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows"></a>
-  <a href="https://shields.io/"><img src="https://img.shields.io/badge/mac%20OS-313131?style=for-the-badge&logo=macos&logoColor=d7d7d7" alt="MacOS"></a>
-  <a href="https://shields.io/"><img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"></a>
-  <br><a href="https://github.com/CM0use/Tortoise-and-Hare/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-4a6484?style=for-the-badge" alt="License GPLv3"></a>
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-0078d7?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Windows">
+  <img src="https://img.shields.io/badge/mac%20OS-313131?style=for-the-badge&logo=macos&logoColor=d7d7d7" alt="macOS">
+  <img src="https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux">
+  <br>
+  <a href="https://github.com/CM0use/Tortoise-and-Hare/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-GPLv3-4a6484?style=for-the-badge"></a>
+</p>
 
-<h4 align="center">The tortoise and the hare challenge each other to a race to see which of them is faster.</h4>
+<p align="center"><i>The tortoise and the hare challenge each other to a race to see which of them is faster.</i></p>
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -27,7 +27,6 @@
 <div align="center">
 
 ![race2](https://user-images.githubusercontent.com/102839710/224551547-c88acc29-2127-4b73-bebb-48944b676d42.gif)
-
 </div>
 
 ## Features
@@ -36,7 +35,7 @@
 * You can also change the speed at which they go.
 * Easy to modify.
 * Cross-Platform
-  - Windows, MacOS and Linux.
+  - Windows, macOS and Linux.
 
 ## Requirements
 * g++
@@ -47,26 +46,19 @@ To **clone** and **compile** this game, you will need to have **git** and **g++*
 From your command line:
 
 ```bash
-
 git clone https://github.com/CM0use/Tortoise-and-Hare.git
 cd Tortoise-and-Hare
 g++ -O2 -std=c++2a src/main.cpp src/utilities.cpp -o TortoiseAndHare
-
 ```
-Run on **MacOS & Linux**:
 
+Run on **macOS & Linux**:
 ```bash
-
 ./TortoiseAndHare
-
 ```
 
 Run on **Windows**:
-
 ```cmd
-
 TortoiseAndHare.exe
-
 ```
 
 ## Contributing
